@@ -31,7 +31,7 @@ I'm a student from CEFET/RJ, currentrly developing and writing scientific works 
 
 [<img align="left" alt="Maria Alice  | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/maria-alice-trinta-lima/)
 
-[<img align="left" alt="Maria Alice  | Instagram" width="22px" src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" />](https://www.instagram.com/malicetrinta)
+[<img align="left" alt="Maria Alice  | Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />](https://www.instagram.com/malicetrinta)
 
 </div>
 
