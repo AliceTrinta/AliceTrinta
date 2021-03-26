@@ -18,7 +18,7 @@ I'm a student from CEFET/RJ, currentrly developing and writing scientific works 
 
 </div>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://miro.medium.com/max/384/0*MkMzjPIFpv6XjTRI.gif" />
 
 - 🌱 I’m currently learning Python and improving my knowledges in Go.
 
@@ -29,9 +29,9 @@ I'm a student from CEFET/RJ, currentrly developing and writing scientific works 
 ### Connect with me:
 <div>
 
-[<img align="left" alt="Maria Alice  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maria-alice-trinta-lima/)
+[<img align="left" alt="Maria Alice  | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/maria-alice-trinta-lima/)
 
-[<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/malicetrinta)
+[<img align="left" alt="Maria Alice  | Instagram" width="22px" src="https://i.pinimg.com/originals/3c/0b/76/3c0b7683f968df22dfb8a45028ef33df.jpg" />](https://www.instagram.com/malicetrinta)
 
 </div>
 
