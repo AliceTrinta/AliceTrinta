@@ -24,8 +24,6 @@ I'm a student from CEFET/RJ, currentrly developing and writing scientific works 
 
 - 🤔 Thinking about start to learn elixir...
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maria-alice-trinta-lima/)
-
 ### Connect with me:
 <div>
 
@@ -36,12 +34,3 @@ I'm a student from CEFET/RJ, currentrly developing and writing scientific works 
 </div>
 
 <br>
-
----
-<p>
-
-![Alice's github stats](https://github-readme-stats.vercel.app/api?username=AliceTrinta&show_icons=true&theme=tokyonight)
-
-</p>
-
----
